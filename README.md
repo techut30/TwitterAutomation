@@ -69,7 +69,7 @@ python main.py
 
 The bot will:
 - Login to your Twitter account
-- Schedule tweets for 2:20 PM daily
+- Schedule tweets for required time daily
 - Update your bio at midnight
 - Keep running until interrupted (Ctrl+C)
 
